@@ -1,0 +1,10 @@
+.import/
+.export/
+*.import
+*.tmp
+*.cfg
+*.log
+*.mono
+mono/
+.cache/
+
